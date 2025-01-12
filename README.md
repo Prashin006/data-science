@@ -5,18 +5,19 @@
 
 
 ## Table of Contents
-- [Description](#description)
-- [Features](#features)
-- [Technologies Used](#️technologies-used)
-- [Installation](#installation)
+- [Description](##description)
+- [Features](##features)
+- [Technologies Used](#️#technologies-used)
+- [Installation](##installation)
   - [Prerequisites](#prerequisites)
   - [Python Modules](#python-modules)
   - [Creating Virtual Environments](#creating-virtual-environments)
   - [Saving Machine Learning Models](#saving-machine-learning-models)
-- [Getting Started with Google Colab](#getting-started-with-google-colab)
-- [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Getting Started with Google Colab](##getting-started-with-google-colab)
+- [Contribution Guidelines](##contribution-guidelines)
+- [Screenshots](##screenshots)
+- [License](##license)
+- [Acknowledgments](##acknowledgments)
 
 ---
 
